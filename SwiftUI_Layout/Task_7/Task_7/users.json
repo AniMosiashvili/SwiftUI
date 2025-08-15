@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Anna Harris",
+        "age": 22,
+        "location": "Tbilisi",
+        "isPremium": true
+    },
+    {
+        "name": "Luka K.",
+        "age": 32,
+        "location": "Batumi",
+        "isPremium": false
+    },
+    {
+        "name": "Vato M.",
+        "age": 18,
+        "location": "Rustavi",
+        "isPremium": true
+    },
+    {
+        "name": "Giorgi T.",
+        "age": 40,
+        "location": "Tbilisi",
+        "isPremium": false
+    },
+    {
+        "name": "Salome Tsiklauri",
+        "age": 24,
+        "location": "Kutaisi",
+        "isPremium": true
+    }
+]
+
